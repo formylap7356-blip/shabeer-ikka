@@ -1,0 +1,6 @@
+{
+  "name": "Shabeer Ikka - Kerala IG Group Chat",
+  "description": "Chaotic Kerala Instagram group chat with Shabeer Ikka, featuring voice notes, authentic Malayalam & Manglish banter, and hilarious group dynamics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
